@@ -12,5 +12,15 @@
     "imageUrl": "",
     "linkUrl": "https://ko-fi.com/carboxlink",
     "ctaText": "☕ Unlock Pro on Ko-fi →"
+  },
+  "support": {
+    "messenger": "https://m.me/61596766269149",
+    "facebook": "https://www.facebook.com/profile.php?id=61596766269149",
+    "telegram": "https://t.me/CarBoxLinkBot"
+  },
+  "payment": {
+    "priceVi": "99.000đ trọn đời",
+    "kofi": "https://ko-fi.com/carboxlink",
+    "verifyUrl": ""
   }
 }

@@ -47,6 +47,9 @@
 
 ## 👑 Free vs. Pro
 
-- **Free**: 100% of all features unlocked! Shows a gentle 5-second support reminder at most once every 30 minutes when reopening the remote.
-- **Pro (One-time lifetime unlock per Box)**: Permanently removes the 5-second reminder. Completely offline (one-way license verification at most once every 7 days — zero personal data sent).
-- **Get a Pro License Key**: Support via [**Ko-fi (ko-fi.com/carboxlink)**](https://ko-fi.com/carboxlink) and include your 8-character **Box ID** in your message to receive your lifetime `CBX-...` activation key!
+- **Free**: 100% of all features unlocked! Shows a gentle support reminder at most once every 30 minutes when reopening the remote (closeable immediately).
+- **Pro (One-time lifetime unlock per Box)**: Permanently removes the reminder. Completely offline (one-way license verification at most once every 7 days — zero personal data sent).
+- **Get a Pro License Key**:
+  - 🌍 **Global ($5 lifetime)**: Support via [**Ko-fi (ko-fi.com/carboxlink)**](https://ko-fi.com/carboxlink) or message [**@CarBoxLinkBot**](https://t.me/CarBoxLinkBot) with your 8-character **Box ID**.
+  - 🇻🇳 **Việt Nam (99.000đ trọn đời)**: Copy **Mã Box** trong mục `👑 Pro` rồi nhắn [**💬 Messenger**](https://m.me/61596766269149) hoặc [**✈️ Telegram Bot (@CarBoxLinkBot)**](https://t.me/CarBoxLinkBot) để kích hoạt!
+- **Support / Hỗ trợ**: [**💬 Messenger**](https://m.me/61596766269149) • [**📘 Facebook Fanpage**](https://www.facebook.com/profile.php?id=61596766269149) • [**✈️ Telegram Bot (@CarBoxLinkBot)**](https://t.me/CarBoxLinkBot) • [**GitHub Issues**](../../issues)
