@@ -20,7 +20,7 @@
 
 ## 📥 Download & Install
 
-1. Download **`CarBox-Link.apk`** from the [**Releases**](../../releases) page.
+1. Download **`CarBox-Link-vX.Y.Z.apk`** from the [**Releases**](../../releases) page.
 2. Install the APK on your Android AI Box.
    - **Note on Google Play Protect**: Because this APK is installed outside Google Play and uses Android Accessibility for the virtual mouse, Play Protect may show a warning. Tap **`More details ∨` → `Install anyway`** (or **`Scan app` → `Install anyway`**).
 3. Open **CarBox Link** once on the Box and complete the **3-step Quick Setup**:
@@ -29,12 +29,16 @@
    - **Step 3** *(Optional)*: Enable Notification Access to display Spotify/YouTube song titles.
 4. Connect your phone and Box to the same Wi-Fi (Box Hotspot, iPhone Personal Hotspot, or car Wi-Fi), then open:
    **`http://carbox.local:8080`**
+5. **📱 Pro Tip — Use It Like a Native Phone App (No App Store Needed!)**:
+   - **iPhone (Safari)**: Open `http://carbox.local:8080` → tap the **Share** button (`⬆`) → tap **Add to Home Screen** → **Add**.
+   - **Android (Chrome)**: Open `http://carbox.local:8080` → tap **`⋮`** (top-right) → tap **Add to Home screen** → **Add**.
+   - Now you have a **1-tap full-screen CarBox Link icon** right on your phone's home screen!
 
 ---
 
 ## 🇻🇳 Hướng dẫn cài đặt nhanh (Tiếng Việt)
 
-1. Tải file **`CarBox-Link.apk`** ở mục [**Releases**](../../releases) và cài đặt lên Android Box.
+1. Tải file **`CarBox-Link-vX.Y.Z.apk`** ở mục [**Releases**](../../releases) và cài đặt lên Android Box.
    - *Lưu ý Google Play Protect*: Vì là file APK cài ngoài CH Play có quyền Trợ năng điều khiển chuột ảo, nếu Google Play Protect hiện cảnh báo, bạn bấm **`Chi tiết khác ∨` → `Vẫn cài đặt`** (`More details` → `Install anyway`).
 2. Mở ứng dụng **CarBox Link** trên màn hình xe 1 lần duy nhất và bấm theo **3 bước trên màn hình**:
    - **Bước 1**: Bật **Trợ năng** *(nếu nút bị mờ trên Android 13–15, bấm **`🔓 Bị mờ?`** → dấu **`⋮`** góc trên phải → **Cho phép cài đặt bị hạn chế** → quay lại bật Bước 1)*.
@@ -42,6 +46,10 @@
    - **Bước 3** *(Tùy chọn)*: Bật đọc tên bài hát Spotify/YouTube.
 3. Nối điện thoại và Box chung Wi-Fi, mở trình duyệt Safari/Chrome truy cập:
    **`http://carbox.local:8080`**
+4. **📱 Mẹo hay — Ghim ra màn hình chính dùng y hệt App thật (không cần App Store!)**:
+   - **iPhone (Safari)**: Bấm nút **Chia sẻ (`⬆`)** → chọn **Thêm vào MH chính (Add to Home Screen)** → **Thêm**.
+   - **Android (Chrome)**: Bấm dấu **`⋮`** góc trên phải → chọn **Thêm vào màn hình chính** → **Thêm**.
+   - Từ nay mở xe lên chỉ cần bấm **1 chạm vào biểu tượng CarBox Link** trên màn hình chính điện thoại (toàn màn hình, mượt như app cài sẵn)!
 
 ---
 
