@@ -1,0 +1,16 @@
+{
+  "revoked": [],
+  "update": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apkUrl": "https://github.com/thocairoitinh-max/carbox-link/releases/latest/download/CarBox-Link.apk",
+    "notes": "Initial global release v1.0.0"
+  },
+  "ad": {
+    "title": "Support CarBox Link Pro",
+    "subtitle": "100% Offline • Zero Tracking • One-time lifetime unlock ($5)",
+    "imageUrl": "",
+    "linkUrl": "https://ko-fi.com/carboxlink",
+    "ctaText": "☕ Unlock Pro on Ko-fi →"
+  }
+}
