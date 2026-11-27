@@ -85,13 +85,17 @@ adb shell appops set com.mazda.cx30.remote ACCESS_RESTRICTED_SETTINGS allow
 adb shell appops set com.mazda.cx30.remote AUTO_REVOKE_PERMISSIONS_IF_UNUSED ignore
 adb shell dumpsys deviceidle whitelist +com.mazda.cx30.remote
 
-# 3. (Optional) Enable CarBox Link Accessibility Service directly via ADB
+# 3. Auto-restore Accessibility on every car boot (built-in self-healing watchdog!)
+# Grants WRITE_SECURE_SETTINGS so CarBox Link automatically re-enables Accessibility if your Box ROM clears it on reboot.
+adb shell pm grant com.mazda.cx30.remote android.permission.WRITE_SECURE_SETTINGS
+
+# 4. (Optional) Enable CarBox Link Accessibility Service immediately via ADB
 # Note: Only run this if you cannot toggle it in Settings (overwrites other enabled accessibility services).
 adb shell settings put secure enabled_accessibility_services com.mazda.cx30.remote/com.mazda.cx30.remote.RemoteAccessibilityService
 adb shell settings put secure accessibility_enabled 1
 ```
 
-> **🇻🇳 Ghi chú Tiếng Việt:** Chỉ cần dùng các lệnh ADB trên nếu ROM Android Box của bạn bị ẩn dấu `⋮` (*Cho phép cài đặt bị hạn chế*) trên Android 13–15, không bật được nút Trợ năng, hoặc hay tự thu hồi quyền / tắt chạy nền sau một thời gian sử dụng.
+> **🇻🇳 Ghi chú Tiếng Việt:** Chỉ cần dùng các lệnh ADB trên nếu ROM Android Box của bạn bị ẩn dấu `⋮` (*Cho phép cài đặt bị hạn chế*) trên Android 13–15, không bật được nút Trợ năng, hoặc ROM tự tắt Trợ năng mỗi lần khởi động lại xe (lệnh số **3** sẽ kích hoạt cơ chế **tự khôi phục Trợ năng tích hợp sẵn** trong CarBox Link sau mỗi lần nổ máy).
 
 </details>
 
