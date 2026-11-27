@@ -8,6 +8,17 @@
 
 ---
 
+## 💡 Why CarBox Link?
+
+- **Why an Android AI Box instead of Wireless CarPlay / Android Auto?**
+  Running Wireless CarPlay / Android Auto on long trips makes your phone **run hot and drain battery fast**, and restricts you from full Android apps (YouTube, true split-screen, offline FLAC/MP3 libraries). An Android AI Box handles all the heavy lifting on the car screen while your phone stays cool.
+- **The Problem with AI Boxes in Real Cars:**
+  Even when an AI Box connects to your car screen, **non-touchscreen cars** (Mazda rotary knob, Lexus/Acura trackpad, BMW/Audi dials) can't easily tap, scroll, or type in full Android apps — forcing people to buy clunky Bluetooth air-mice or mini keyboards.
+- **The CarBox Link Solution (100% Free & 100% Offline):**
+  No extra mouse to buy and no phone app to install! Your Box simply creates a **local Wi-Fi hotspot** (zero SIM/mobile data required), and your phone becomes an instant wireless touchpad, 1-tap navigation sender, split-screen controller, and music remote in Safari/Chrome.
+
+---
+
 ## ✨ Key Features
 
 - **🧭 1-Tap Car Navigation**: Send addresses or Google Maps share links directly to **Google Maps**, **Waze**, **VIETMAP LIVE**, or **Navitel** with hands-free auto-start.
