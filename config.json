@@ -1,10 +1,10 @@
 {
   "revoked": [],
   "update": {
-    "versionCode": 4,
-    "versionName": "1.1.1",
-    "apkUrl": "https://github.com/carboxlink/carbox-link/releases/download/v1.1.1/CarBox-Link-v1.1.1.apk",
-    "notes": "v1.1.1: Official full-bleed dark CarBox Link steering-wheel icon for Android Adaptive Launcher and iOS/Android PWA Home Screen"
+    "versionCode": 5,
+    "versionName": "1.1.2",
+    "apkUrl": "https://github.com/carboxlink/carbox-link/releases/download/v1.1.2/CarBox-Link-v1.1.2.apk",
+    "notes": "v1.1.2: Fixed 1-tap Box ID copy on iPhone Safari & Android Chrome over local HTTP Wi-Fi"
   },
   "ad": {
     "title": "Support CarBox Link Pro",
