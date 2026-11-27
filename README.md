@@ -70,6 +70,31 @@
    - **Android (Chrome)**: Bấm dấu **`⋮`** góc trên phải → chọn **Thêm vào màn hình chính** → **Thêm**.
    - Từ nay mở xe lên chỉ cần bấm **1 chạm vào biểu tượng CarBox Link** trên màn hình chính điện thoại (toàn màn hình, mượt như app cài sẵn)!
 
+<details>
+<summary>🛠️ <b>Troubleshooting / Optional ADB Fixes</b> (Only if your AI Box blocks or revokes Accessibility)</summary>
+
+Most Android AI Boxes work right out of the box with the 3-step setup above. However, some Android 13–15 Box firmwares hide the `⋮` *Allow restricted settings* menu or aggressively revoke Accessibility / kill background services.
+
+If you have a PC/Mac with ADB (or Wireless ADB on the Box), you can run these standard Android commands once:
+
+```bash
+# 1. Unlock "Restricted Settings" (if Android 13-15 grays out Accessibility and hides the ⋮ menu)
+adb shell appops set com.mazda.cx30.remote ACCESS_RESTRICTED_SETTINGS allow
+
+# 2. Prevent Android from auto-revoking permissions or putting the service to sleep
+adb shell appops set com.mazda.cx30.remote AUTO_REVOKE_PERMISSIONS_IF_UNUSED ignore
+adb shell dumpsys deviceidle whitelist +com.mazda.cx30.remote
+
+# 3. (Optional) Enable CarBox Link Accessibility Service directly via ADB
+# Note: Only run this if you cannot toggle it in Settings (overwrites other enabled accessibility services).
+adb shell settings put secure enabled_accessibility_services com.mazda.cx30.remote/com.mazda.cx30.remote.RemoteAccessibilityService
+adb shell settings put secure accessibility_enabled 1
+```
+
+> **🇻🇳 Ghi chú Tiếng Việt:** Chỉ cần dùng các lệnh ADB trên nếu ROM Android Box của bạn bị ẩn dấu `⋮` (*Cho phép cài đặt bị hạn chế*) trên Android 13–15, không bật được nút Trợ năng, hoặc hay tự thu hồi quyền / tắt chạy nền sau một thời gian sử dụng.
+
+</details>
+
 ---
 
 ## 👑 Free vs. Pro
