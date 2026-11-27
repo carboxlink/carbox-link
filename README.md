@@ -68,7 +68,7 @@
 
 ## 👑 Free vs. Pro
 
-- **Free**: 100% of all features unlocked! Shows a gentle support reminder at most once every 30 minutes when reopening the remote (closeable immediately).
+- **Free**: 100% of all features unlocked! Shows a gentle support reminder at most once every 15 minutes when reopening the remote.
 - **Pro (One-time lifetime unlock per Box)**: Permanently removes the reminder. Completely offline (one-way license verification at most once every 7 days — zero personal data sent).
 - **Get a Pro License Key**:
   - 🌍 **Global ($5 lifetime)**: Support via [**Ko-fi (ko-fi.com/carboxlink)**](https://ko-fi.com/carboxlink) or message [**@CarBoxLinkBot**](https://t.me/CarBoxLinkBot) with your 8-character **Box ID**.

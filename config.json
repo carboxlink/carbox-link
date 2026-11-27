@@ -1,17 +1,21 @@
 {
   "revoked": [],
   "update": {
-    "versionCode": 3,
-    "versionName": "1.1.0",
-    "apkUrl": "https://github.com/carboxlink/carbox-link/releases/download/v1.1.0/CarBox-Link-v1.1.0.apk",
-    "notes": "v1.1.0: User-toggleable Auto-start on car boot, Auto-enable Wi-Fi Hotspot on boot, bilingual Box & Phone toggles, and full PWA Home Screen manifest/icon support"
+    "versionCode": 4,
+    "versionName": "1.1.1",
+    "apkUrl": "https://github.com/carboxlink/carbox-link/releases/download/v1.1.1/CarBox-Link-v1.1.1.apk",
+    "notes": "v1.1.1: Official full-bleed dark CarBox Link steering-wheel icon for Android Adaptive Launcher and iOS/Android PWA Home Screen"
   },
   "ad": {
     "title": "Support CarBox Link Pro",
-    "subtitle": "100% Offline • Zero Tracking • One-time lifetime unlock ($5)",
+    "titleVi": "Ủng hộ CarBox Link Pro",
+    "subtitle": "100% Free & Offline • Zero Tracking • Optional $5 lifetime unlock removes this 10s reminder forever",
+    "subtitleVi": "100% Miễn phí & Offline • Không theo dõi • Ủng hộ 99.000đ trọn đời để tắt vĩnh viễn bảng nhắc 10s này",
     "imageUrl": "",
     "linkUrl": "https://ko-fi.com/carboxlink",
-    "ctaText": "☕ Unlock Pro on Ko-fi →"
+    "linkUrlVi": "https://m.me/61596766269149",
+    "ctaText": "☕ Support on Ko-fi ($5) →",
+    "ctaTextVi": "💬 Nhắn Messenger kích hoạt Pro →"
   },
   "support": {
     "messenger": "https://m.me/61596766269149",
