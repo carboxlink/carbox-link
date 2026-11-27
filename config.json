@@ -1,10 +1,10 @@
 {
   "revoked": [],
   "update": {
-    "versionCode": 2,
-    "versionName": "1.0.1",
-    "apkUrl": "https://github.com/carboxlink/carbox-link/releases/download/v1.0.1/CarBox-Link-v1.0.1.apk",
-    "notes": "v1.0.1: Updated carboxlink domain, 5s support countdown, and Messenger/Fanpage/Telegram buttons"
+    "versionCode": 3,
+    "versionName": "1.1.0",
+    "apkUrl": "https://github.com/carboxlink/carbox-link/releases/download/v1.1.0/CarBox-Link-v1.1.0.apk",
+    "notes": "v1.1.0: User-toggleable Auto-start on car boot, Auto-enable Wi-Fi Hotspot on boot, bilingual Box & Phone toggles, and full PWA Home Screen manifest/icon support"
   },
   "ad": {
     "title": "Support CarBox Link Pro",

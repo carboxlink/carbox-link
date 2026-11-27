@@ -3,6 +3,8 @@
 **Turn your phone into a zero-install wireless remote, touchpad, navigation sender, split-screen controller, and Wi-Fi music uploader for any Android AI Box (CarlinKit Tbox, Ottocast, Binize, Vietmap BS10, Zestech, etc.).**
 
 > Perfect for non-touchscreen cars (Mazda CX-30, Mazda 3, CX-5, BMW, Audi, Lexus...) — no App Store install needed! Just open `http://carbox.local:8080` in Safari or Chrome.
+>
+> 🎬 **Watch Live Demo on Mazda CX-30 (YouTube):** https://youtu.be/xJhycn7NZco
 
 ---
 
