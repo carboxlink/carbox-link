@@ -6,6 +6,12 @@
 >
 > 🎬 **Watch Live Demo on Mazda CX-30 (YouTube):** https://youtu.be/xJhycn7NZco
 
+### 📸 Real In-Car Photos (Mazda CX-30 Non-Touchscreen + iPhone)
+
+| Wireless Touchpad in Cockpit | 1-Tap Split Screen | Offline Music (693 Tracks) & SmartTube |
+| :---: | :---: | :---: |
+| ![Wireless Touchpad on Mazda CX-30](01_cx30_cockpit_touchpad.jpg) | ![1-Tap Split Screen on Mazda CX-30](05_cx30_split_screen.jpg) | ![Offline Music and SmartTube Remote](04_cx30_music_smarttube.jpg) |
+
 ---
 
 ## 💡 Why CarBox Link?
